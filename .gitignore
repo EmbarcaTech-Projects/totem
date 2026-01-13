@@ -2,3 +2,6 @@
 build*/
 .cache/
 .venv/
+
+# ESP-IDF
+sdkconfig.old
